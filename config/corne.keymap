@@ -71,7 +71,7 @@
         };
 
         one-handed {
-            bindings = <&layer_hold 2>;
+            bindings = <&mo 2>;
             key-positions = <36 37 30 31>;
             layers = <0 1 2 3>;
         };
