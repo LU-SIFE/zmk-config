@@ -3,5 +3,3 @@ on: [push, pull_request, workflow_dispatch]
 jobs:
   build:
     uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@main
-    with:
-      SHIELD: "choco_left nice_view_adapter nice_view" # Ensure these shields are correctly defined
