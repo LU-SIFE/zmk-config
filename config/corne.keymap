@@ -43,43 +43,43 @@
         Caps-Lock {
             bindings = <&kp CAPSLOCK>;
             key-positions = <15 14>;
-            layers = <0 3>;
+            layers = <0 1 2 3>;
         };
 
         Escape {
             bindings = <&kp ESCAPE>;
             key-positions = <1 0>;
-            layers = <0 3>;
+            layers = <0 1 2 3>;
         };
 
         Hypen {
             bindings = <&kp MINUS>;
             key-positions = <5 4>;
-            layers = <0>;
+            layers = <0 1 2 3>;
         };
 
         Tab {
             bindings = <&kp TAB>;
             key-positions = <4 3>;
-            layers = <0>;
+            layers = <0 1 2>;
         };
 
         Gaming_toggle {
             bindings = <&layer_tog 3>;
             key-positions = <36 41 30 35>;
-            layers = <0 3>;
+            layers = <0 1 2 3>;
         };
 
         one-handed {
             bindings = <&layer_hold 2>;
             key-positions = <36 37 30 31>;
-            layers = <0 1 3 2>;
+            layers = <0 1 2 3>;
         };
 
         face {
             bindings = <&kp COLON>;
             key-positions = <24 14>;
-            layers = <0 3>;
+            layers = <0 1 2 3>;
         };
     };
 
