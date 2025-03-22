@@ -11,13 +11,16 @@ configured for a 36-key 5x3 split layout, with 3 thumb keys per side. Based on c
 
 ## Symbol/Number Layer:
 (left-most thumb button - hold)
+
 ![Symbol Layer](/examples/symbol.png)
 
 ## Function Layer:
-(right-most thumb button - hold)
+(right-most thumb button - hold)<br>
 (or hold left and middle thumb buttons on left half)
+
 ![Function Layer](/examples/function.png)
 
 ## Gaming Layer:
 (press both layer keys to toggle)
+
 ![Gaming Layer](/examples/gaming.png)
