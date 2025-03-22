@@ -54,6 +54,10 @@
              layers = <0 1 2 3>;
          };
      };
+
+     chosen {
+         zmk,matrix_transform = &five_column_transform;
+     };
  
      keymap {
          compatible = "zmk,keymap";
